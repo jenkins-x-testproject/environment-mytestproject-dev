@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/jenkins-x-testproject/testrepo.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: collabnix-bot
+  repo: testjenkins
+  url: https://github.com/collabnix-bot/testjenkins.git
+  version: ""
+  versionURL: ""

@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: collabnix-bot
+    provider: github
+    repository: testjenkins
+  name: collabnix-bot-testjenkins
+spec:
+  description: Imported application for collabnix-bot/testjenkins
+  httpCloneURL: https://github.com/collabnix-bot/testjenkins.git
+  org: collabnix-bot
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: testjenkins
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/collabnix-bot/testjenkins.git
