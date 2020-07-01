@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jenkins-x-testproject
+    provider: github
+    repository: test3
+  name: jenkins-x-testproject-test3
+spec:
+  description: Imported application for jenkins-x-testproject/test3
+  httpCloneURL: https://github.com/jenkins-x-testproject/test3.git
+  org: jenkins-x-testproject
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: test3
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jenkins-x-testproject/test3.git

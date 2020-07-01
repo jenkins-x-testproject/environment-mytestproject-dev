@@ -11,3 +11,9 @@ dependencies:
   url: https://github.com/collabnix-bot/testjenkins.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: jenkins-x-testproject
+  repo: test3
+  url: https://github.com/jenkins-x-testproject/test3.git
+  version: ""
+  versionURL: ""
