@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jenkins-x-testproject
+  repo: testrepo
+  url: https://github.com/jenkins-x-testproject/testrepo.git
+  version: ""
+  versionURL: ""
