@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jenkins-x-testproject
+    provider: github
+    repository: tp-alpha
+  name: jenkins-x-testproject-tp-alpha
+spec:
+  description: Imported application for jenkins-x-testproject/tp-alpha
+  httpCloneURL: https://github.com/jenkins-x-testproject/tp-alpha.git
+  org: jenkins-x-testproject
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: tp-alpha
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jenkins-x-testproject/tp-alpha.git
