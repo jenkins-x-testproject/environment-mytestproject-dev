@@ -1,0 +1,15 @@
+adminUser:
+  password: vault:mytestproject/adminUser:password
+  username: admin
+docker:
+  email: ajeetraina@gmail.com
+  password: vault:mytestproject/docker:password
+  url: https://index.docker.io/v1/
+  username: ajeetraina
+enableDocker: true
+pipelineUser:
+  email: rainaajeetsingh1981@gmail.com
+  token: vault:mytestproject/pipelineUser:token
+  username: collabnix-bot
+prow:
+  hmacToken: vault:mytestproject/prow:hmacToken
