@@ -23,3 +23,9 @@ dependencies:
   url: https://github.com/jenkins-x-testproject/tp-alpha.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: jenkins-x-testproject
+  repo: 2july
+  url: https://github.com/jenkins-x-testproject/2july.git
+  version: ""
+  versionURL: ""

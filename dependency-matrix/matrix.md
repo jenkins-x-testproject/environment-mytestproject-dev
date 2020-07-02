@@ -6,3 +6,4 @@ Dependency | Sources | Version | Mismatched versions
 [collabnix-bot/testjenkins](https://github.com/collabnix-bot/testjenkins.git) |  | []() | 
 [jenkins-x-testproject/test3](https://github.com/jenkins-x-testproject/test3.git) |  | []() | 
 [jenkins-x-testproject/tp-alpha](https://github.com/jenkins-x-testproject/tp-alpha.git) |  | []() | 
+[jenkins-x-testproject/2july](https://github.com/jenkins-x-testproject/2july.git) |  | []() | 
